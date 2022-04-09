@@ -1,0 +1,9 @@
+{
+  "deno.enable": true,
+  "deno.enablePaths": [
+    "./"
+  ],
+  "deno.lint": true,
+  "deno.path": "./bin",
+  "deno.codeLens.test": true
+}
