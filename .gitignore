@@ -1,2 +1,6 @@
 bin/
 .envrc
+
+# Supabase
+**/supabase/.branches
+**/supabase/.temp
